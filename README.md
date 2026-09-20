@@ -144,3 +144,8 @@ Before you submit your solution, you need to save your progress with git.
   * For additional information on submitting assignments in CodeGrade: [Getting Started in Canvas](https://help.codegrade.com/for-students/getting-started/getting-started-in-canvas)
 
 
+## Test Results
+
+All Song class tests pass successfully.
+
+![Song class tests passing](docs/tests_passing.png)
